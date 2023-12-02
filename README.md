@@ -27,40 +27,58 @@
 <table>
   <tr>
     <td align="center" width="96">
+     <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Git" />
-      <br>Python
+     </a>
+     <br>Python
     </td>
     <td align="center" width="96">
+     <a href="https://pytorch.org/">
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="Git" />
-      <br>PyTorch
+     </a>
+     <br>PyTorch
     </td>
     <td align="center" width="96">
+     <a href="https://regex101.com/">
         <img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Git" />
-      <br>Regex
+     </a>
+     <br>Regex
     </td>
     <td align="center" width="96">
+     <a href="https://code.visualstudio.com/">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Git" />
-      <br>VS Code
+     </a>
+     <br>VS Code
     </td>
     <td align="center" width="96">
+     <a href="https://en.cppreference.com/w/">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="Git" />
-      <br>C++
+     </a>
+     <br>C++
     </td>
     <td align="center" width="96">
+     <a href="https://www.postgresql.org/">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Git" />
-      <br>Postgres
+     </a>
+     <br>Postgres
     </td>
     <td align="center" width="96">
+     <a href="https://git-scm.com/">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+     </a>
+     <br>Git
     </td>
     <td align="center" width="96">
+     <a href="https://github.com/Tomas542">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Git" />
-      <br>GitHub
+     </a>
+     <br>GitHub
     </td>
     <td align="center" width="96">
+     <a href="https://gitlab.com/Tomas245/">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="Git" />
-      <br>GitLab
+     </a>
+     <br>GitLab
     </td>
   </tr>
 </table>
