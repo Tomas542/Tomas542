@@ -31,13 +31,6 @@ MS in ITMO, average ML enjoyer 🌱
 <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/tomas_yudin">
-<img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://habr.com/ru/users/Tomas245/">
-<img src="https://img.shields.io/badge/Habr-65A3BE.svg?style=for-the-badge&logo=Habr&logoColor=white">
-</a> -->
 <a href="https://www.linkedin.com/in/artyom-iudin/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
