@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 > Maybe I should give you a name?
 
-MS in ITMO, average ML enjoyer 🌱
+🌱 MS in ITMO, average ML enjoyer (mostly NLP and audio)
 
 ## My accounts
 <div align="justify">
